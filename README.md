@@ -30,6 +30,6 @@ Said generated picture is of a butterfly, with ripple effects added to bring to 
 
 ![Stained Glass](3DStainedGlass/3dstainedglass_ss.png)
 
-An attempt to render in 3D a 2D stained glass design through determining normal and height maps. Here I used DeepBump, a Blender add-in to generate these maps.
+A 3D rendering of a 2D stained glass design through determining normal and height maps. Here I used DeepBump, a Blender add-in to generate these maps.
 
 Subject is of a garden with flowers and birds, which I chose for variety in colour and texture. 
