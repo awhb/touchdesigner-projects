@@ -2,7 +2,7 @@
 
 A personal repository for TouchDesigner projects.
 
-## Table of Contents
+## List of projects
 - [Recoloured Carriage](./RecolouredCarriage)
 - [LavaRand](./LavaRand)
 - [Butterfly Effect](./ButterflyEffect)
