@@ -1,6 +1,6 @@
 ## LavaRand 
 
-![LavaRand visual](LavaRand/LavaRand_ss.png)
+![LavaRand visual](LavaRand_ss.png)
 
 A project inspired by Cloudflare's use of lava lamps to create secure encryption keys. 
 
